@@ -16,23 +16,22 @@ Vas a construir una API REST básica que simula un sistema inmobiliario. Esta AP
 
 ## Sobre el proyecto 🚀
 
-### ✨ Requerimientos ✨
-
 👌 1. Inicialización de proyecto
 
-mkdir realestate-api && cd realestate-api
-npm init -y
-npm install express
-npm install --save-dev jest supertest
+- mkdir realestate-api && cd realestate-api
+- npm init -y
+- npm install express
+- npm install --save-dev jest supertest
 
-Crea el repositorio realestate-api
-Sube el código a GitHub
-Crea .github/workflows/api-ci.yml
-Copia el workflow avanzado del archivo
-Haz el push
-Ve a Actions en GitHub
-Verifica la ejecución
-Observa el uso del caché y los mensajes condicionales
+- Crea el repositorio realestate-api
+- Sube el código a GitHub
+- Crea .github/workflows/api-ci.yml
+- Copia el workflow avanzado del archivo
+- Haz el push
+- Ve a Actions en GitHub
+- Verifica la ejecución
+- Observa el uso del caché y los mensajes condicionales
+
 
 ## Reflexiones
 
